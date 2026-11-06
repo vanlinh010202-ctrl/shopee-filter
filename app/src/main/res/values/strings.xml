@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lọc Đơn Shopee 1-2-3-4</string>
+    <string name="acc_desc">Dịch vụ đọc thông số đơn hàng (KM tối thiểu, Tiền cước, Địa chỉ) và tự động bấm theo tọa độ 1-2-3-4.</string>
+</resources>
